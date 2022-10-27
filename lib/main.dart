@@ -39,7 +39,7 @@
           ),
           body:Center(
             child: Text(
-              "Hello Ponkrit",
+              "Hello Sooppasit",
             style: GoogleFonts.kanit(
               textStyle:TextStyle(
                 fontSize: 40,
